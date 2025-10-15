@@ -6,7 +6,7 @@ Comparing vector DBs in Javascript.
 - https://github.com/realharry/web-vector-storage
 - https://github.com/realharry/vector-storage
 - https://github.com/realharry/imvectordb
-- https://github.com/realharry/vectordb.js
+- https://github.com/realharry/themaximalist-vectordb.js
 - https://github.com/realharry/vectra
 
 
